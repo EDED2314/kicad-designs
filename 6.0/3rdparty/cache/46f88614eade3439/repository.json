@@ -1,0 +1,19 @@
+{
+    "maintainer": {
+        "contact": {
+            "web": "https://www.kicad.org/about/contact-us/"
+        },
+        "name": "KiCad team"
+    },
+    "name": "KiCad official repository",
+    "packages": {
+        "sha256": "eab4be1a1cb39875f25898e26707c7a03d58b44bb602f6819239eae68d9307a4",
+        "update_timestamp": 1651748648,
+        "url": "https://gitlab.com/kicad/addons/repository/-/raw/main/packages.json"
+    },
+    "resources": {
+        "sha256": "e29de8b1de4946e6ffe302a16f53944185c1316b87cd6c5f8bf34c0fc4301b3c",
+        "update_timestamp": 1651748648,
+        "url": "https://gitlab.com/kicad/addons/repository/-/jobs/artifacts/main/raw/artifacts/resources.zip?job=update"
+    }
+}

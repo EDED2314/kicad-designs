@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "BMI055")(type "KiCad")(uri "C:/Users/Eddie/OneDrive/Documents/KiCad/Libraries/BMI055")(options "")(descr ""))
+  (lib (name "SI7232DN-T1-GE3")(type "KiCad")(uri "C:/Users/Eddie/OneDrive/Documents/KiCad/Libraries/SI7232DN-T1-GE3/SI7232DN-T1-GE3")(options "")(descr ""))
+  (lib (name "ADXL375")(type "KiCad")(uri "C:/Users/Eddie/OneDrive/Documents/KiCad/Libraries/ADXL375")(options "")(descr ""))
+  (lib (name "Connectors_JST")(type "KiCad")(uri "C:/Users/Eddie/OneDrive/Documents/KiCad/Libraries/Connectors_JST.pretty-master")(options "")(descr ""))
+)
